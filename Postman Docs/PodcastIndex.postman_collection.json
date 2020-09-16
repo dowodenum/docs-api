@@ -304,7 +304,7 @@
 						}
 					]
 				},
-				"description": "**This call requires a read-write api key.\n\nThis call adds a podcast to the index using it's itunes id. If a feed already exists, it will be noted in the response."
+				"description": "**This call requires a read-write api key.\n\nThis call adds a podcast to the index using its itunes id. If a feed already exists, it will be noted in the response."
 			},
 			"response": []
 		}
